@@ -1,0 +1,6 @@
+{
+  "name": "SingHealth Healthcare Cost & Utilisation Insights (2019–2024)",
+  "description": "Interactive research executive dashboard, demographic impact simulator, care setting cost breakdowns, and AI policy analyst based on the Singapore Annals SingHealth healthcare study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
